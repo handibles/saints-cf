@@ -2,7 +2,7 @@
 
 "Parallel metagenomic- and culture-based approaches show nasal swabs are a good proxy for broncho-alveolar lavage in children with cystic fibrosis"
 
-Code for the research carried out with Teagasc, CHI-Crumlin, and RCSI.
+Code for the research carried out with Teagasc, CHI-Crumlin, and RCSI. Sequence data is available at the European Nucleotide Archive, under accession [PRJEB67893](https://www.ebi.ac.uk/ena/browser/view/PRJEB67893).
 
 Nominally, code should be run in the following order, but hopefully it would only be becessary to run the fig_manus script to re-create the material in the paper (once you have already run everything once...)
 
